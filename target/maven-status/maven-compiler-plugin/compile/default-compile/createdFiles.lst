@@ -1,0 +1,14 @@
+br\com\atvarquitetura\dlqauditor\application\AuditDlqMessageService.class
+br\com\atvarquitetura\dlqauditor\domain\port\in\AuditDlqMessageUseCase.class
+br\com\atvarquitetura\dlqauditor\infrastructure\persistence\AuditRecordRepositoryAdapter.class
+br\com\atvarquitetura\dlqauditor\infrastructure\persistence\SpringDataAuditRecordRepository.class
+br\com\atvarquitetura\dlqauditor\infrastructure\persistence\AuditRecordEntity.class
+br\com\atvarquitetura\dlqauditor\infrastructure\sqs\DlqMessageListener.class
+br\com\atvarquitetura\dlqauditor\domain\model\FailedOrderEvent.class
+br\com\atvarquitetura\dlqauditor\domain\model\Severity.class
+br\com\atvarquitetura\dlqauditor\infrastructure\config\JacksonConfig.class
+br\com\atvarquitetura\dlqauditor\domain\model\OrderItem.class
+br\com\atvarquitetura\dlqauditor\domain\model\AuditErrorRecord.class
+br\com\atvarquitetura\dlqauditor\domain\model\AuditStatus.class
+br\com\atvarquitetura\dlqauditor\DlqAuditorApplication.class
+br\com\atvarquitetura\dlqauditor\domain\port\out\AuditRecordRepositoryPort.class

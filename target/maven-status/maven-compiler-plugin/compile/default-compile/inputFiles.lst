@@ -1,0 +1,14 @@
+C:\Users\gbau1\OneDrive\Documentos\GitHub\atv_auditor\atv_auditor\src\main\java\br\com\atvarquitetura\dlqauditor\application\AuditDlqMessageService.java
+C:\Users\gbau1\OneDrive\Documentos\GitHub\atv_auditor\atv_auditor\src\main\java\br\com\atvarquitetura\dlqauditor\DlqAuditorApplication.java
+C:\Users\gbau1\OneDrive\Documentos\GitHub\atv_auditor\atv_auditor\src\main\java\br\com\atvarquitetura\dlqauditor\domain\model\AuditErrorRecord.java
+C:\Users\gbau1\OneDrive\Documentos\GitHub\atv_auditor\atv_auditor\src\main\java\br\com\atvarquitetura\dlqauditor\domain\model\AuditStatus.java
+C:\Users\gbau1\OneDrive\Documentos\GitHub\atv_auditor\atv_auditor\src\main\java\br\com\atvarquitetura\dlqauditor\domain\model\FailedOrderEvent.java
+C:\Users\gbau1\OneDrive\Documentos\GitHub\atv_auditor\atv_auditor\src\main\java\br\com\atvarquitetura\dlqauditor\domain\model\OrderItem.java
+C:\Users\gbau1\OneDrive\Documentos\GitHub\atv_auditor\atv_auditor\src\main\java\br\com\atvarquitetura\dlqauditor\domain\model\Severity.java
+C:\Users\gbau1\OneDrive\Documentos\GitHub\atv_auditor\atv_auditor\src\main\java\br\com\atvarquitetura\dlqauditor\domain\port\in\AuditDlqMessageUseCase.java
+C:\Users\gbau1\OneDrive\Documentos\GitHub\atv_auditor\atv_auditor\src\main\java\br\com\atvarquitetura\dlqauditor\domain\port\out\AuditRecordRepositoryPort.java
+C:\Users\gbau1\OneDrive\Documentos\GitHub\atv_auditor\atv_auditor\src\main\java\br\com\atvarquitetura\dlqauditor\infrastructure\config\JacksonConfig.java
+C:\Users\gbau1\OneDrive\Documentos\GitHub\atv_auditor\atv_auditor\src\main\java\br\com\atvarquitetura\dlqauditor\infrastructure\persistence\AuditRecordEntity.java
+C:\Users\gbau1\OneDrive\Documentos\GitHub\atv_auditor\atv_auditor\src\main\java\br\com\atvarquitetura\dlqauditor\infrastructure\persistence\AuditRecordRepositoryAdapter.java
+C:\Users\gbau1\OneDrive\Documentos\GitHub\atv_auditor\atv_auditor\src\main\java\br\com\atvarquitetura\dlqauditor\infrastructure\persistence\SpringDataAuditRecordRepository.java
+C:\Users\gbau1\OneDrive\Documentos\GitHub\atv_auditor\atv_auditor\src\main\java\br\com\atvarquitetura\dlqauditor\infrastructure\sqs\DlqMessageListener.java
